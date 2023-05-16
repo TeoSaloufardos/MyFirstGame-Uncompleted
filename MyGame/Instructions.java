@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class Instructions here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Teo 
+ * @version Alpha
  */
 public class Instructions extends World
 {
@@ -33,7 +33,7 @@ public class Instructions extends World
         text += "\n\n\"P\" for addition. Then answering/typing the correct";
         text += "\n\nnumber, the monster will be killed.";
         text += "\n\nPress SPACE to start. Good Luck!";
-        text += "\n\n\nAuthor: THEOKLITOS TATARIS mai23043";
+        text += "\n\n\nAuthor: SalouFardos13";
         GreenfootImage textImg = new GreenfootImage(text, 24, Color.RED, new Color(0, 0, 0, 0));
         getBackground().drawImage(textImg, (getWidth()-textImg.getWidth())/2, (getHeight()-textImg.getHeight())/2);
     }
