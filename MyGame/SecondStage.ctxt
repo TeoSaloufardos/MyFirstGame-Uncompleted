@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SecondStage
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Castle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ randomX()
+comment2.params=
+comment2.target=int\ randomY()
+comment3.params=user\ myHp\ score\ message
+comment3.target=SecondStage(User,\ Hearts,\ Counter,\ MessageDisplayer)
+comment4.params=user\ myHp\ score\ message
+comment4.target=void\ prepare(User,\ Hearts,\ Counter,\ MessageDisplayer)
+numComments=5
